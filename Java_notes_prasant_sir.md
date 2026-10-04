@@ -12,7 +12,15 @@ programming lang = human instruction + 01010101010
 
 Jaab bhi kisi problem ko solve karne ke liye hum step by step instruction likhte hain usko hum alogoritm kehte hai
 
-Algorithm = step by step instruction
+Algorithm = step by step procedure for solving a problem or performing a task
+
+SYNTAX 
+
+rule of the language 
+structure of words in a sentence 
+
+
+
 
 
 
