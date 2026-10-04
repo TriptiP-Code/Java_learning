@@ -4,9 +4,15 @@ computer only understand 0/1 or off/on
 
 Human instructions are given in high level lang 
 
-compiler converts high level lang to low level lang i.e machine code
+compiler converts high level lang to low level lang or machine code
 
 problem --> human instructions --> 0101010101 -->solve 
 
 programming lang = human instruction + 01010101010
+
+Jaab bhi kisi problem ko solve karne ke liye hum step by step instruction likhte hain usko hum alogoritm kehte hai
+
+Algorithm = step by step instruction
+
+
 
