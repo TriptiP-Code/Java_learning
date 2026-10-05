@@ -33,6 +33,17 @@ forward compatibility v/s backward compatibility
 
 source code (human written) --> compiler -->byte code (verified code , non human readable) --> JVM (converts to 0101010101 for each machine)(M1, M2, M3, M4)
 
+Very Imp feature of JAVA
+
+1. Portability , write once run anywhere 
+2. Security , because it runs on virtual machine JVM , very secure , sandboxing 
+3. Robust , strong memory management , exception handling and type checking mechanism which helps in preventing such crashes and ensuring the performance 
+4. Multithreaded , is ability of a cpu to execute multiple threads concurrently(ekk sath) , allowing for more efficient processing and task management 
+5. Architecture neutral , java is architecturally neutral because its compiled code (byte code) can run on any device with a JVM regardless of the underlying hardware architecture 
+6. Interepreted and high performance . java combines high performance with interpretability as its bytecode is interpeted by the jvm , which deploys Just-in-time (JIT)
+7. Distributed : designed to facilitate network based application development and interaction , seamless integrating with internet protocol
+
+
 
 
 
