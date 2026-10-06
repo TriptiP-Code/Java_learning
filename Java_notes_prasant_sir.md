@@ -50,9 +50,22 @@ Very Imp feature of JAVA
 7. Distributed : designed to facilitate network based application development and interaction , seamless integrating with internet protocol
 
 
+OBJECT ORIENTED PROGRAMMING 
+
+It has class , object , properties , methods 
 
 
+FIRST CLASS USING TEXT EDITOR
 
+import java.lang.*;
+
+public class FirstProgram {
+  public static void main(String[] args){
+   System.out.print("Welcome to my vlog");
+}
+}
+
+Byte code is always saved in .class extension 
 
 
 
