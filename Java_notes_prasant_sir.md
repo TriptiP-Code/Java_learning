@@ -68,5 +68,15 @@ public class FirstProgram {
 Byte code is always saved in .class extension 
 
 
+program.java --> java compiler --> program.class -->jvm(000111000)-->program
+
+.java source file(input) --> javac (command) --> bytecode.class file (command ) ---> java --> output
+
+
+Anatomy of a class 
+
+
+
+
 
 
