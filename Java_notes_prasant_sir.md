@@ -136,6 +136,11 @@ not platform independent : a diff jvm  is not neeeded for each type of os/machin
 
 ![alt text](image-3.png)
 
+output
+
+system.out.print("one");
+system.out.println("three);
+
 
 
 
