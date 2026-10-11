@@ -149,6 +149,12 @@ entry point : its the entry point of java program , where the execution starts
 
 without main method, the JVM does not know where to beign running the code 
 
-public 
+PUBLIC and STATIC 
+
+the main method must be public and static , ensuring its accessable to the JVM without needing to instantiate the class
+
+Fixed signature : the main method has fixed signature : public static void main(String[] args) deviating from this signature means the jvm doesnot know what is the starting point
+
+
 
 
