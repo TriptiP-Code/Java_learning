@@ -72,6 +72,8 @@ program.java --> java compiler --> program.class -->jvm(000111000)-->program
 
 .java source file(input) --> javac (command) --> bytecode.class file (command ) ---> java --> output
 
+![alt text](image-1.png)
+
 
 Anatomy of a class 
 
@@ -83,7 +85,7 @@ void --> means return type
  
  ![alt text](image.png)
 
- 
+
 
 
 
