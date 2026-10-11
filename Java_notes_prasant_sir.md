@@ -86,6 +86,28 @@ void --> means return type
  ![alt text](image.png)
 
 
+File extensions
+
+.java 
+
+it contains java source code
+high level human readable
+used for development 
+file is editable 
+
+.class 
+
+contains java bytecode
+for consumtion of jvm
+used for execution
+not meant to be edited
+
+JDK vs JVM vs JRE 
+
+![alt text](image-2.png)
+
+
+
 
 
 
