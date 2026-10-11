@@ -14,10 +14,14 @@ Jaab bhi kisi problem ko solve karne ke liye hum step by step instruction likhte
 
 Algorithm = step by step procedure for solving a problem or performing a task
 
+-------------------------------------------------------------
+
 SYNTAX 
 
 rule of the language 
 structure of words in a sentence 
+
+---------------------------------------------------------------
 
 James Gosling at Sun Microsystems 
 
@@ -32,6 +36,8 @@ Oak to Java (because of coffee beans , as it doesnt change the taste even after 
 forward compatibility v/s backward compatibility 
 
 source code (human written) --> compiler -->byte code (verified code , non human readable) --> JVM (converts to 0101010101 for each machine)(M1, M2, M3, M4)
+
+------------------------------------
 
 Very Imp feature of JAVA
 
@@ -49,6 +55,7 @@ Very Imp feature of JAVA
 
 7. Distributed : designed to facilitate network based application development and interaction , seamless integrating with internet protocol
 
+--------------------------------------------------------------------
 
 OBJECT ORIENTED PROGRAMMING 
 
@@ -65,6 +72,8 @@ public class FirstProgram {
 }
 }
 
+----------------------------------------------------------------
+
 Byte code is always saved in .class extension 
 
 
@@ -74,6 +83,7 @@ program.java --> java compiler --> program.class -->jvm(000111000)-->program
 
 ![alt text](image-1.png)
 
+------------------------------------------------------------------------
 
 Anatomy of a class 
 
@@ -88,12 +98,16 @@ void --> means return type
 
 File extensions
 
+------------------------------------------------------------
+
 .java 
 
 it contains java source code
 high level human readable
 used for development 
 file is editable 
+
+-------------------------------------------------------
 
 .class 
 
@@ -102,19 +116,25 @@ for consumtion of jvm
 used for execution
 not meant to be edited
 
+-----------------------------------------------------------
 
 JDK vs JVM vs JRE 
 
 ![alt text](image-2.png)
 
+------------------------------------------------------
 
 jvm < jre < jdk
+
+------------------------------------------------------------
 
 Java development kit 
 
 it is required to develop java applications 
 
 includes the jre , an interpreter/loader (java) , a compiler (javac) , a doc generator (javadoc) , and other tools needed for java development 
+
+-----------------------------------------------------------
 
 Java runtime environment 
 
@@ -123,6 +143,8 @@ it is part of jdk but can be downloaded separately
 provides the libraries , the jvm and other components to run applications 
 
 does not have tools and utilities for developers like compilers or doc
+
+-------------------------------------------------------
 
 Java virtual machine
 
@@ -133,6 +155,8 @@ specific to device
 ensures java write once run anywhere capability
 
 not platform independent : a diff jvm  is not neeeded for each type of os/machine 
+-----------------------------------------------------
+
 
 ![alt text](image-3.png)
 
@@ -140,6 +164,8 @@ output
 
 system.out.print("one");
 system.out.println("three);
+
+---------------------------------------------------------
 
 IMPORTANCE OF MAIN METHODD
 
@@ -149,11 +175,23 @@ entry point : its the entry point of java program , where the execution starts
 
 without main method, the JVM does not know where to beign running the code 
 
+-----------------------------------------------------
+
 PUBLIC and STATIC 
 
 the main method must be public and static , ensuring its accessable to the JVM without needing to instantiate the class
 
 Fixed signature : the main method has fixed signature : public static void main(String[] args) deviating from this signature means the jvm doesnot know what is the starting point
+
+----------------------------------------------------
+
+Java automatically import java.lang even if we dont use it in our program i.e because java.lang package contains classes that are essential for writing almost every java program
+
+e.g String , System, Math , Object , Integer 
+
+----------------------------------------------------------------
+
+
 
 
 
