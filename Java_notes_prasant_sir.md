@@ -75,7 +75,15 @@ program.java --> java compiler --> program.class -->jvm(000111000)-->program
 
 Anatomy of a class 
 
+public --> public keyword means everyone can access it 
 
+class --> keyword , to define a class then <className>
+
+void --> means return type 
+ 
+ ![alt text](image.png)
+
+ 
 
 
 
