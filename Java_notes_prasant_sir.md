@@ -141,6 +141,14 @@ output
 system.out.print("one");
 system.out.println("three);
 
+IMPORTANCE OF MAIN METHODD
 
+public static void main(String args[])
+
+entry point : its the entry point of java program , where the execution starts 
+
+without main method, the JVM does not know where to beign running the code 
+
+public 
 
 
