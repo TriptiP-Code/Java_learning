@@ -134,7 +134,7 @@ ensures java write once run anywhere capability
 
 not platform independent : a diff jvm  is not neeeded for each type of os/machine 
 
-
+![alt text](image-3.png)
 
 
 
