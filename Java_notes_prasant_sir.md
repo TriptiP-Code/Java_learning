@@ -102,10 +102,37 @@ for consumtion of jvm
 used for execution
 not meant to be edited
 
+
 JDK vs JVM vs JRE 
 
 ![alt text](image-2.png)
 
+
+jvm < jre < jdk
+
+Java development kit 
+
+it is required to develop java applications 
+
+includes the jre , an interpreter/loader (java) , a compiler (javac) , a doc generator (javadoc) , and other tools needed for java development 
+
+Java runtime environment 
+
+it is part of jdk but can be downloaded separately
+
+provides the libraries , the jvm and other components to run applications 
+
+does not have tools and utilities for developers like compilers or doc
+
+Java virtual machine
+
+it is part of jre and responsible for executing the byte code 
+
+specific to device 
+
+ensures java write once run anywhere capability
+
+not platform independent : a diff jvm  is not neeeded for each type of os/machine 
 
 
 
