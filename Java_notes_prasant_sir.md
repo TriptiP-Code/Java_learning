@@ -286,7 +286,20 @@ in ram a reserved memory for variable gets created
 
 ----------------------------------------------------------
 
+Data types
 
+Byte 
+short 
+int 
+long 
+char
+float
+double
+boolean
+
+![alt text](image-4.png)
+
+---------------------------------------------------------------
 
 
 
