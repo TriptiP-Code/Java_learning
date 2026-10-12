@@ -267,7 +267,7 @@ Variables are used to store data
 
 variable name  and variable value 
 
------------------------
+------------------------------------------------------------
 
 Memory allocation 
 
@@ -276,5 +276,18 @@ memory v/s storage
 ram v/s rom (internal storage)
 
 therefore when we store a program it gets saved in ROM and when it runs it is in RAM and takes RAM's memory
+
+int a = 5;
+
+a = variable name 
+5 = value of variable 
+
+in ram a reserved memory for variable gets created 
+
+----------------------------------------------------------
+
+
+
+
 
 
