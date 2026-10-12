@@ -245,18 +245,22 @@ ANWER TRUE / FALSE
 
 3. Computer is smart enough to ignore incorrect syntax --> false
 
-4. Java was 1st released in 1992 --> true
+4. Java was 1st released in 1992 --> false
 
 5. Java was named over a person who made good cofee --> false
 
-6. Bytecode is platform independent --> false
+6. Bytecode is platform independent --> true
 
 7. JDK is a part of JRE --> false 
 
 8. Its optional to declare main method as public --> false 
 
-9. .class file contains machine code --> true
+9. .class file contains machine code --> false , it has byte code , not 01010101
 
 10. println adds a new line at the end of the line --> true
+
+----------------------------------------------------------------
+
+
 
 
