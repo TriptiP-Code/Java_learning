@@ -288,7 +288,7 @@ in ram a reserved memory for variable gets created
 
 Data types
 
-Byte 
+Byte  1 byte = 8 bits  
 short 
 int 
 long 
@@ -298,6 +298,10 @@ double
 boolean
 
 ![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+
 
 ---------------------------------------------------------------
 
