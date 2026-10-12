@@ -237,6 +237,26 @@ int a[], b;  // a is an array; b is a regular int
 
 ------------------------------------------------------------------
 
+ANWER TRUE / FALSE
 
+1. computer underrstand high level lang like java , C --> False
+
+2. An algo is a set of instrustions to accomplish a task --> true
+
+3. Computer is smart enough to ignore incorrect syntax --> false
+
+4. Java was 1st released in 1992 --> true
+
+5. Java was named over a person who made good cofee --> false
+
+6. Bytecode is platform independent --> false
+
+7. JDK is a part of JRE --> false 
+
+8. Its optional to declare main method as public --> false 
+
+9. .class file contains machine code --> true
+
+10. println adds a new line at the end of the line --> true
 
 
