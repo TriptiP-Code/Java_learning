@@ -184,6 +184,8 @@ the main method must be public and static , ensuring its accessable to the JVM w
 Fixed signature : the main method has fixed signature : public static void main(String[] args) deviating from this signature means the jvm doesnot know what is the starting point
 
 ----------------------------------------------------
+import java.lang.*;
+
 
 Java automatically import java.lang even if we dont use it in our program i.e because java.lang package contains classes that are essential for writing almost every java program
 
@@ -191,7 +193,49 @@ e.g String , System, Math , Object , Integer
 
 ----------------------------------------------------------------
 
+public static void main(String args[])
 
+and
+
+public static void main(String[] args)
+
+Both are valid Java syntax. They mean exactly the same thing.
+
+
+String[] args means what 
+
+string - daya type for text 
+
+[] - indicates an array , which can hold multiples values of that type 
+
+args - the variable name for that arrau 
+
+so together it means that args is a varible that can refer to an array of strings 
+
+String[] args={"hello","java","world"};
+
+one can access them like 
+
+sopln(args[0]); output hello
+
+sopln(args[1]); output java
+
+But why does String args[] also work?
+
+because java permits the square brackets to appear after the variable name in an array declaration
+
+Java supports both forms for historical and syntactic reasons. The first form is generally preferred because it makes the array type clearer.
+
+
+For example, compare these declarations:
+
+int[] a, b;  // Both a and b are arrays of int
+
+
+int a[], b;  // a is an array; b is a regular int
+
+
+------------------------------------------------------------------
 
 
 
