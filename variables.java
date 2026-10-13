@@ -20,6 +20,10 @@ public class Variables{
 
    System.out.println(yourFloat);
 
+   String wishes="Good morning";
+
+   System.out.println(wishes);
+
 
 
   }
