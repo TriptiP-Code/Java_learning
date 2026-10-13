@@ -14,5 +14,13 @@ public class Variables{
    boolean isVeg= false;
    System.out.println(isVeg);
 
+  //  float myFloat = 5.0; will give compile error because it thinks that 5.0 is double , therefore need to use f or F after the float number
+
+   float yourFloat =5.0f;
+
+   System.out.println(yourFloat);
+
+
+
   }
 }
