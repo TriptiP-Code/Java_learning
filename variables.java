@@ -9,6 +9,10 @@ public class Variables{
    int yourNumber; //valid declaration , keep the memory ready of 4 bytes so that later value can be kept.
 
    System.out.println(myNumber);
+  //  System.out.println(yourNumber);
+
+   boolean isVeg= false;
+   System.out.println(isVeg);
 
   }
 }
