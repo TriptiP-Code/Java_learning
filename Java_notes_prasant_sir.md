@@ -305,6 +305,40 @@ boolean
 
 ---------------------------------------------------------------
 
+NAMING CONVENTIONS 
+
+
+![alt text](image-6.png)
+
+myVariableName (camel)
+
+my_variable_name (snake)
+
+my-variable-name (kebab)
+
+keep good and short name 
+
+
+In java we use Camel Case
+
+but in case of naming class we start with capital letter
+---------------------------------------------------------------------------
+
+Identifier = variable names
+
+RULES OF IDENTIFIERS 
+
+1. only allowed chars for identifiers are all alphanumeric char , A-Z , a-z , 0-9 , $ and _
+
+2. cant use keyword or reserved word
+
+3. should not start with digit 
+
+4. 
+
+
+
+
 
 
 
