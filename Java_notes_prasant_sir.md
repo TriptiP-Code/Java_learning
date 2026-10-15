@@ -350,3 +350,21 @@ boolean literals = true , false
 character literals = 'a' ,'A', 'N' ,'q', etc
 string literals = "hi" , "hello" , "whats up" 
 
+
+int number = 5;
+<data type>  <identifier> = <literal>;
+
+-----------------------------------------------------------
+
+KEYWORDS
+
+are reserved words with specific meaning and work
+
+e.g  int , switch , void , static , break , case etc
+
+--------------------------
+
+ESCAPE SEQUENCE 
+
+![alt text](image-7.png)
+
