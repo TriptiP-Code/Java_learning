@@ -338,11 +338,15 @@ RULES OF IDENTIFIERS
 
 5. there is no linit on the length of the identifier but it is advisable to use an optimum length of 4 - 15 letters only
 
+---------------------------------
 
+LITERALS 
 
+the direct value which we use in our program is called literal 
 
-
-
-
-
+i.e integer literals = 10 , 4 , 88 , -9 etc
+floating point literals = 1.2 , 0.25 , -1.999 , etc 
+boolean literals = true , false
+character literals = 'a' ,'A', 'N' ,'q', etc
+string literals = "hi" , "hello" , "whats up" 
 
