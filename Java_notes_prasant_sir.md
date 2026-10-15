@@ -334,7 +334,11 @@ RULES OF IDENTIFIERS
 
 3. should not start with digit 
 
-4. 
+4. java identifiers are case sensitive
+
+5. there is no linit on the length of the identifier but it is advisable to use an optimum length of 4 - 15 letters only
+
+
 
 
 
